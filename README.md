@@ -1,2 +1,2 @@
 # pythontutorial
-My go on python tutorail
+My go on HackerRank Python Challenges
